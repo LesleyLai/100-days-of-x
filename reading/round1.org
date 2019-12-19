@@ -1,5 +1,5 @@
 * 100 Days of reading round 1
-** [Day 1](https://twitter.com/LesleyLai6/status/1207530946288701440?s=20)
+** [[https://twitter.com/LesleyLai6/status/1207530946288701440?s=20][Day 1]]: December 18th, 2019
 *** Today's Progress:
    Read [[http://www.realtimerendering.com/raytracinggems/][Ray Tracing Gems]] chapter 1 and chapter 2.
 
