@@ -1,0 +1,7 @@
+* 100 Days of reading round 1
+** [Day 1](https://twitter.com/LesleyLai6/status/1207530946288701440?s=20)
+*** Today's Progress:
+   Read [[http://www.realtimerendering.com/raytracinggems/][Ray Tracing Gems]] chapter 1 and chapter 2.
+
+*** Thoughts
+    Want to read this book for awhile, glad to start

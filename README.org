@@ -1,0 +1,5 @@
+* Log of 100 days of X challenges
+https://www.100daysofx.com/
+
+** Reading
+  - [[reading/round1.org][round1]]
