@@ -1,7 +1,16 @@
 * 100 Days of reading round 1
+The focus of this round is Computer Graphics books and papers.
+
 ** [[https://twitter.com/LesleyLai6/status/1207530946288701440?s=20][Day 1]]: December 18th, 2019
 *** Today's Progress:
    Read [[http://www.realtimerendering.com/raytracinggems/][Ray Tracing Gems]] chapter 1 and chapter 2.
 
 *** Thoughts
     Want to read this book for awhile, glad to start
+
+** [[https://twitter.com/LesleyLai6/status/1207903500031520770?s=20][Day 2]]: December 19th, 2019
+*** Today's Progress:
+   Read [[http://www.realtimerendering.com/raytracinggems/][Ray Tracing Gems]] chapter 3.1-3.6.
+
+*** Thoughts
+    This chapter is about DirectX Ray Tracing. I don't have a Windows machine with DirectX ray tracing capability, so there are no way I can run the code. However, DirectX Ray Tracing API is very similar to the Vulkan and Optix conterparts, so it is still worthwhile to read.
