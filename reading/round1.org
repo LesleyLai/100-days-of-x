@@ -14,3 +14,10 @@ The focus of this round is Computer Graphics books and papers.
 
 *** Thoughts
     This chapter is about DirectX Ray Tracing. I don't have a Windows machine with DirectX ray tracing capability, so there are no way I can run the code. However, DirectX Ray Tracing API is very similar to the Vulkan and Optix conterparts, so it is still worthwhile to read.
+
+** [[https://twitter.com/LesleyLai6/status/1207903500031520770?s=20][Day 3]]: December 20th, 2019
+*** Today's Progress:
+   Read [[http://www.realtimerendering.com/raytracinggems/][Ray Tracing Gems]] chapter 4 "A Planetarium Dome Master Camera"
+
+*** Thoughts
+    The author talks about technical details and considerations of designing "A Planetarium Dome Master Camera." The use cases of the "Planetarium Camera" itself is quite limited, and it is not likely that I would write such code in my life. However, the article is a good introduction to design any kind of none-standard camera.
