@@ -21,3 +21,13 @@ The focus of this round is Computer Graphics books and papers.
 
 *** Thoughts
     The author talks about technical details and considerations of designing "A Planetarium Dome Master Camera." The use cases of the "Planetarium Camera" itself is quite limited, and it is not likely that I would write such code in my life. However, the article is a good introduction to design any kind of none-standard camera.
+
+** [[https://twitter.com/LesleyLai6/status/1208585712120909824?s=20][Day 4]]: December 21st, 2019
+*** Today's Progress:
+    - Setup a develop environment for OCaml and read [[http://dev.realworldocaml.org/toc.html][Real World OCaml]].
+    - Read [[http://www.pbr-book.org/][Physically Based Rendering]] Chapter 1 and 2.1-2.6
+
+*** Thoughts
+    I feel like some chapters of "Ray Tracing Gems" book may be too difficult for me now, so instead I would read the venerable "Physically Based Rendering" book first as a general introduction to different algorithms.
+    
+    I also start to experiment a bit with the OCaml programming language. So far I find the language impressive, though they do make few mistake when design the language to make some of the syntax gratuitous.
