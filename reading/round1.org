@@ -31,3 +31,12 @@ The focus of this round is Computer Graphics books and papers.
     I feel like some chapters of "Ray Tracing Gems" book may be too difficult for me now, so instead I would read the venerable "Physically Based Rendering" book first as a general introduction to different algorithms.
     
     I also start to experiment a bit with the OCaml programming language. So far I find the language impressive, though they do make few mistake when design the language to make some of the syntax gratuitous.
+    
+** [[https://twitter.com/LesleyLai6/status/1208971467628535810?s=20][Day 5]]: December 22nd, 2019
+*** Today's Progress:
+    - Read [[http://dev.realworldocaml.org/toc.html][Real World OCaml]] Chapter 2
+    - Read [[http://home.pipeline.com/~hbaker1/CheneyMTA.html][CONS Should Not CONS Its Arguments, Part II: Cheney on the M.T.A]]
+    - Read [[http://www.pbr-book.org/][Physically Based Rendering]] 2.7
+    
+*** Thoughts
+   "Cheney on the M.T.A" describes an interesting way to compile tail calls into CPS and allocate closures on the stack.
