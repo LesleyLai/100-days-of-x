@@ -76,3 +76,7 @@ The focus of this round is Computer Graphics books and papers.
 
 *** Thoughts
     Polymorphic Variants are interesting, I wonder how they got implemented
+
+** [[https://twitter.com/LesleyLai6/status/1211629960076488704?s=20][Day 11]]: December 30th, 2019
+*** Today's Progress:
+    - Real World OCaml Chapter 7
