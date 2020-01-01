@@ -81,6 +81,10 @@ The focus of this round is Computer Graphics books and papers.
 *** Today's Progress:
     - Real World OCaml Chapter 7
 
-** [[https://twitter.com/LesleyLai6/status/1212009499286003712?s=20][Day 12]: December 31st, 2019
+** [[https://twitter.com/LesleyLai6/status/1212009499286003712?s=20][Day 12]]: December 31st, 2019
 *** Today's Progress:
     - Practical Foundations for Programming Languages Chapter 1.2, 2
+
+** [[https://twitter.com/LesleyLai6/status/1212351132783136768?s=20][Day 13]]: January 1st, 2020
+*** Today's Progress:
+    - Real World OCaml Chapter 8
