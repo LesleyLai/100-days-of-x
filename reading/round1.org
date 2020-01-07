@@ -98,6 +98,18 @@ The focus of this round is Computer Graphics books and papers.
 
     OCaml Functor seems to be a powerful feature, but also harder than the rest of the language. I still need to read more about surrounding concepts such as /sharing constraints/ and /destructive substitution/.
 
-** [[https://twitter.com/LesleyLai6/status/1213067716036194304?s=20][Day 15]]: January 2nd, 2020
+** [[https://twitter.com/LesleyLai6/status/1213067716036194304?s=20][Day 15]]: January 3rd, 2020
 *** Today's Progress:
     Practical Foundations for Programming Languages 3.1
+
+** [[https://twitter.com/LesleyLai6/status/1213812326887018496?s=20][Day 16]]: January 5th, 2020
+*** Today's Progress:
+    Physically Based Rendering Chapter 5
+
+** [[https://twitter.com/LesleyLai6/status/1214179885721309185?s=20][Day 17]]: January 6th, 2020
+*** Today's Progress:
+    Physically Based Rendering Chapter 12.1
+
+** [[https://twitter.com/LesleyLai6/status/1214478682145873921?s=20][Day 18]]: January 7th, 2020
+*** Today's Progress:
+    Real World OCaml Chapter 10
