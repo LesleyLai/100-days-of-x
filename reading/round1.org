@@ -61,8 +61,6 @@ The focus of this round is Computer Graphics books and papers.
 
     The book "Practical Foundations for Programming Languages" is the textbook I need to read next semester, so I start to read it early. It is a hard read and I hope it is writtern in a more beginner friendly term.
 
-** Jetlagging interlude
-
 ** [[https://twitter.com/LesleyLai6/status/1210896525309698048?s=20][Day 9]]: December 28th, 2019
 *** Today's Progress:
     - Real World OCaml Chapter 5
@@ -113,3 +111,12 @@ The focus of this round is Computer Graphics books and papers.
 ** [[https://twitter.com/LesleyLai6/status/1214478682145873921?s=20][Day 18]]: January 7th, 2020
 *** Today's Progress:
     Real World OCaml Chapter 10
+
+** [[https://twitter.com/LesleyLai6/status/1215118927673475072?s=20][Day 19]]: January 8th, 2020
+*** Today's Progress:
+    - Real World OCaml Chapter 11
+    - Physically Based Rendering 12.2-4
+    - Practical Foundations for Programming Languages Chapter 4
+
+*** Thoughts
+    OCaml's object system is both complex and powerful. For each task, choices are abundant. For example, OCaml provides at least four language mechanisms for open polymorphism: row polymorphism/polymorphic variant, subtyping of objects, functor and first-class modules, and inheritance. By contrast, most languages would only provide one or even no support for dynamic open polymorphism. Row polymorphism is probably the cleanest way to achieve this kind of polymorphism, but it is the least powerful, and the use cases are restricted. Functors are the best at providing abstractions. And inheritance is this "dirty hack everyone hates" but still useful sometimes.
