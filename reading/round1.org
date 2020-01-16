@@ -120,3 +120,22 @@ The focus of this round is Computer Graphics books and papers.
 
 *** Thoughts
     OCaml's object system is both complex and powerful. For each task, choices are abundant. For example, OCaml provides at least four language mechanisms for open polymorphism: row polymorphism/polymorphic variant, subtyping of objects, functor and first-class modules, and inheritance. By contrast, most languages would only provide one or even no support for dynamic open polymorphism. Row polymorphism is probably the cleanest way to achieve this kind of polymorphism, but it is the least powerful, and the use cases are restricted. Functors are the best at providing abstractions. And inheritance is this "dirty hack everyone hates" but still useful sometimes.
+
+** [[https://twitter.com/LesleyLai6/status/1215118927673475072?s=20][Day 20]]: January 11th, 2020
+*** Today's Progress:
+   Physically Based Rendering 12.5-6
+
+** [[https://twitter.com/LesleyLai6/status/1216539858149105665?s=20][Day 21]]: January 12th, 2020
+*** Today's Progress:
+    Real World OCaml Chapter 12
+
+*** Thoughts
+    The last chapter on basic language mechanics.
+
+** [[https://twitter.com/LesleyLai6/status/1217269402019803137?s=20][Day 23]]: January 14th, 2020
+*** Today's Progress:
+    Physically Based Rendering 6.4
+
+** [[https://twitter.com/LesleyLai6/status/1217663497716133891?s=20][Day 24]]: January 15th, 2020
+*** Today's Progress:
+    Hand-on design patterns with C++ Chapter 1-3
